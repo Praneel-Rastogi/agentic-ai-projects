@@ -1,4 +1,0 @@
-python-dotenv
-langchain
-google-search-results
-openai
